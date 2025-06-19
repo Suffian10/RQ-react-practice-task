@@ -17,7 +17,9 @@ npm run dev
 
 ```
 🧩 Tasks Breakdown
+
 ✅ Task 1.1: User Card Component (⏱️ ~20-25 mins)
+
 Features:
 
 - Accepts name, email, gender, avatar, and isOnline props
@@ -40,6 +42,7 @@ Features:
 
 
 ✅ Task 1.2: Counter Component (⏱️ ~5 mins)
+
 Features:
 
 - Increment, Decrement, and Reset buttons
@@ -49,6 +52,7 @@ Features:
 - Text color changes to red when counter exceeds 10, and reverts to black otherwise
 
 ✅ Task 3: Contact Form (⏱️ ~10–15 mins)
+
 Features:
 
 Input fields: name, email, and message
